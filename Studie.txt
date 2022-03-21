@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=lIN4rgeUzQc
+
+https://www.youtube.com/watch?v=oCNucnhn6fU
+
+https://www.exam-labs.com/?gclid=CjwKCAjwoduRBhA4EiwACL5RP6K0mBlIiCyegqXhtIBSmIcTkjYNw-9-wQO8os9La-g3GjvkrNxWpxoC_xQQAvD_BwE
+
+https://api.coindesk.com/v1/bpi/currentprice.json
